@@ -1,2 +1,6 @@
+# Ignore virtual Env
+multiApp/
+
+# Ignore some files
 .DS_Store
 
