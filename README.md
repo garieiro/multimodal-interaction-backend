@@ -29,3 +29,5 @@
   ```bash
   python 3 goncalo_oflline.py
  ```
+
+ ## Endpoints Documentation
