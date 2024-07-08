@@ -32,4 +32,5 @@
 
   ## Endpoints Documentation
 
-  ### Clone Repository
+  ### All Events
+
