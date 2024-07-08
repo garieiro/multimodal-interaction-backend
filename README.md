@@ -13,11 +13,11 @@
   ```bash
   Python version: 3.12.2
   ```
-  Create virtualEnv with name multiApp
+  Create virtualenv with name multiApp
   ```bash
   python3 -m venv MultiApp
    ```
-  Activate Virtual Env
+  Activate virtualenv
   ```bash
   source/bin/activate
    ```
