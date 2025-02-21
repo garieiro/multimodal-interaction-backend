@@ -1,0 +1,227 @@
+[
+  [
+    {
+      "Type": "INPUT",
+      "EventType": "Speech Input",
+      "TimeStamp": "2024-03-01 15:34:54.833991",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[YES, I WOULD LOVE TO]"
+      },
+      "Target": "FUSION",
+      "ID": "2fd3856b-2d56-4495-a4b4-9a0068bcb87d",
+      "Source": "SPEECH INPUT MODALITY",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:34:54.833991",
+      "End": "2024-03-01 15:34:56.833991"
+    },
+    {
+      "Type": "INPUT",
+      "EventType": "Gesture Input",
+      "TimeStamp": "2024-03-01 15:34:54.848113",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[YES]"
+      },
+      "Target": "FUSION",
+      "ID": "36d6dc45-6a32-464e-820f-329b39c02e2c",
+      "Source": "GESTURE MODALITY",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:34:54.848113",
+      "End": "2024-03-01 15:34:55.848113"
+    },
+    {
+      "Type": "INPUT",
+      "EventType": "FUSION",
+      "TimeStamp": "2024-03-01 15:34:56.852942",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[Gesture: NO, Probability: 0.74] [Speech: AFFIRM, Probability: 0.99] [RESULT: AFFIRM]"
+      },
+      "Target": "APP AGENT",
+      "ID": "76227131-1de6-4a55-a721-a0f5dffd4f73",
+      "Source": "FUSION ENGINE",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:34:56.852942",
+      "End": "2024-03-01 15:34:57.852942"
+    },
+    {
+      "Type": "OUTPUT",
+      "EventType": "Response Generator",
+      "TimeStamp": "2024-03-01 15:34:59.864083",
+      "Semantic": {
+        "RESULT": "I AM GLAD YOU LIKED MY SUGGESTION, I WILL PLAY THE SONG THEN"
+      },
+      "Target": "SPEECH OUTPUT MODALITY",
+      "ID": "b89f3da1-1507-4868-b496-bf8f3ebe8a1f",
+      "Source": "APP AGENT",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:34:59.864083",
+      "End": "2024-03-01 15:35:00.864083"
+    },
+    {
+      "Type": "OUTPUT",
+      "EventType": "Response Render",
+      "TimeStamp": "2024-03-01 15:35:00.872514",
+      "Semantic": {
+        "RESULT": "I AM GLAD YOU LIKED MY SUGGESTION, I WILL PLAY THE SONG THEN"
+      },
+      "Target": "FINAL",
+      "ID": "27479e40-d57c-4a10-9cb3-f8f2e8c2f2d7",
+      "Source": "SPEECH OUTPUT",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:35:00.872514",
+      "End": "2024-03-01 15:35:01.872514"
+    }
+  ],
+  [
+    {
+      "Type": "INPUT",
+      "EventType": "Speech Input",
+      "TimeStamp": "2024-03-01 15:35:10.885377",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[YES, I WOULD LOVE TO]"
+      },
+      "Target": "FUSION",
+      "ID": "8c52ac4e-a39b-4482-b184-16a280f2e7aa",
+      "Source": "SPEECH INPUT MODALITY",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:35:10.885377",
+      "End": "2024-03-01 15:35:12.885377"
+    },
+    {
+      "Type": "INPUT",
+      "EventType": "Gesture Input",
+      "TimeStamp": "2024-03-01 15:35:10.888892",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[YES]"
+      },
+      "Target": "FUSION",
+      "ID": "68812c17-82b4-4be2-8515-7f18f77a4526",
+      "Source": "GESTURE MODALITY",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:35:10.888892",
+      "End": "2024-03-01 15:35:11.888892"
+    },
+    {
+      "Type": "INPUT",
+      "EventType": "Fusion",
+      "TimeStamp": "2024-03-01 15:35:12.894630",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[Gesture: NO, Probability: 0.74] [Speech: AFFIRM, Probability: 0.99] [RESULT: AFFIRM]"
+      },
+      "Target": "APP AGENT",
+      "ID": "08af01d7-e530-4141-9e1f-f80abcb80451",
+      "Source": "FUSION",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:35:12.894630",
+      "End": "2024-03-01 15:35:13.894630"
+    },
+    {
+      "Type": "OUTPUT",
+      "EventType": "Response Generator",
+      "TimeStamp": "2024-03-01 15:35:15.911540",
+      "Semantic": {
+        "RESULT": "I AM GLAD YOU LIKED MY SUGGESTION, I WILL PLAY THE SONG THEN"
+      },
+      "Target": "SPEECH OUTPUT MODALITY",
+      "ID": "3bacbcc7-e3d5-4675-9569-db1df72f3553",
+      "Source": "APP AGENT",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:35:15.911540",
+      "End": "2024-03-01 15:35:16.911540"
+    },
+    {
+      "Type": "OUTPUT",
+      "EventType": "Response Render",
+      "TimeStamp": "2024-03-01 15:35:16.922200",
+      "Semantic": {
+        "RESULT": "I AM GLAD YOU LIKED MY SUGGESTION, I WILL PLAY THE SONG THEN"
+      },
+      "Target": "FINAL",
+      "ID": "7dc68187-8862-4bea-b2b5-e15d9725dff8",
+      "Source": "SPEECH OUTPUT",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:35:16.922292",
+      "End": "2024-03-01 15:35:17.922292"
+    }
+  ],
+  [
+    {
+      "Type": "INPUT",
+      "EventType": "Speech Input",
+      "TimeStamp": "2024-03-01 15:38:44.679563",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[YES, I WOULD LOVE TO]"
+      },
+      "Target": "FUSION",
+      "ID": "517f999b-1411-41d0-b361-7114eb3d36e9",
+      "Source": "SPEECH INPUT MODALITY",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:38:44.680563",
+      "End": "2024-03-01 15:38:46.680563"
+    },
+    {
+      "Type": "INPUT",
+      "EventType": "Gesture Input",
+      "TimeStamp": "2024-03-01 15:38:44.696215",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[YES]"
+      },
+      "Target": "FUSION",
+      "ID": "97d753f7-60cb-4097-b88d-1ea3c6478ca6",
+      "Source": "GESTURE MODALITY",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:38:44.696215",
+      "End": "2024-03-01 15:38:45.696215"
+    },
+    {
+      "Type": "INPUT",
+      "EventType": "Fusion",
+      "TimeStamp": "2024-03-01 15:38:46.701423",
+      "Semantic": {
+        "RESULT": "AFFIRM",
+        "VALUE": "[Gesture: NO, Probability: 0.74] [Speech: AFFIRM, Probability: 0.99] [RESULT: AFFIRM]"
+      },
+      "Target": "APP AGENT",
+      "ID": "a4e466b4-1bf8-460f-8ec7-f8b06a18326c",
+      "Source": "FUSION",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:38:46.701423",
+      "End": "2024-03-01 15:38:47.701423"
+    },
+    {
+      "Type": "OUTPUT",
+      "EventType": "Response Generator",
+      "TimeStamp": "2024-03-01 15:38:49.707096",
+      "Semantic": {
+        "RESULT": "I AM GLAD YOU LIKED MY SUGGESTION, I WILL PLAY THE SONG THEN"
+      },
+      "Target": "SPEECH OUTPUT MODALITY",
+      "ID": "f59a971a-fab0-4e12-be85-95d36e4d3b8f",
+      "Source": "APP AGENT",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:38:49.707581",
+      "End": "2024-03-01 15:38:50.707581"
+    },
+    {
+      "Type": "OUTPUT",
+      "EventType": "Response Render",
+      "TimeStamp": "2024-03-01 15:38:50.723903",
+      "Semantic": {
+        "RESULT": " Ola I AM GLAD YOU LIKED MY SUGGESTION, I WILL PLAY THE SONG THEN"
+      },
+      "Target": "FINAL",
+      "ID": "e2ca11b8-d88e-4630-a327-119a6a6ae7ac",
+      "Source": "SPEECH OUTPUT",
+      "Additional Information": "",
+      "Start": "2024-03-01 15:38:50.723903",
+      "End": "2024-03-01 15:38:51.723903"
+    }
+  ]
+]
